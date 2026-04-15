@@ -45,7 +45,7 @@ export default function PriyanshiMiniWebsite() {
           <div className="bg-white/90 backdrop-blur-lg rounded-[2rem] shadow-2xl p-10 border border-rose-200">
             <h2 className="text-3xl font-semibold text-pink-600 mb-6">A Letter From My Heart</h2>
             <div className="space-y-4 text-lg leading-8 text-gray-700">
-              <p>Dear Priyanshi,</p>
+              <p>Dear unknown person,</p>
               <p>
                 I hope you are doing well. There is something that I have been waiting to share with you for quite some time.
                 I wanted to tell you this during our exam.
