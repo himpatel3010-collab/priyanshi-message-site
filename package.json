@@ -1,4 +1,4 @@
-```json
+
 {
   "name": "priyanshi-message-site",
   "private": true,
@@ -18,4 +18,3 @@
     "@vitejs/plugin-react": "^4.2.0"
   }
 }
-```
