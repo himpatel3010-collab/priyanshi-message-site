@@ -35,7 +35,7 @@ export default function PriyanshiMiniWebsite() {
             onClick={() => revealSection('message-section')}
             className="mt-8 px-8 py-4 rounded-2xl bg-pink-500 text-white text-lg font-semibold shadow-xl hover:scale-105 transition-all duration-300"
           >
-            Open Your Message ✨
+            Click here and scroll down 
           </button>
         </div>
       </section>
