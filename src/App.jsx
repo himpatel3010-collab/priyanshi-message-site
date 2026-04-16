@@ -93,7 +93,7 @@ export default function CollegeMiniWebsite() {
             Our friendship means a lot to me and will always remain special.
             All the fun activities or trip that we have made that will remain memorable for me.
           </p>
-          <p className="mt-6 px-4 py-2 rounded-2xl bg-pink-500 text-white hover:scale-105 transition-all">
+          <p className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             MBA journey Ends here..
           </p>  
 
