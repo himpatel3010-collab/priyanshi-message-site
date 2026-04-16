@@ -25,10 +25,10 @@ export default function CollegeMiniWebsite() {
 
       <section className="min-h-screen flex items-center justify-center px-6 relative z-10">
         <div className="max-w-4xl w-full bg-white/80 backdrop-blur-xl rounded-[2rem] shadow-2xl border border-pink-200 p-10 text-center">
-          <p className="text-sm tracking-[0.3em] uppercase text-pink-500 mb-3">A Special gesture from my side</p>
-          <h1 className="text-6xl font-bold text-pink-600 mb-4">For My College mates💙</h1>
+          <p className="text-sm tracking-[0.3em] uppercase text-pink-500 mb-3">A warm welcome to our college dairies</p>
+          <h1 className="text-6xl font-bold text-pink-600 mb-4">Here we share a good memory💙</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-8">
-            A small message for you.
+            A small message for you guys.
           </p>
 
           <button
@@ -43,27 +43,29 @@ export default function CollegeMiniWebsite() {
       <section id="message-section" className="hidden px-6 pb-12 relative z-10">
         <div className="max-w-4xl mx-auto space-y-8">
           <div className="bg-white/90 backdrop-blur-lg rounded-[2rem] shadow-2xl p-10 border border-rose-200">
-            <h2 className="text-3xl font-semibold text-pink-600 mb-6">A Letter From My Heart</h2>
+            <h2 className="text-3xl font-semibold text-pink-600 mb-6">This is the hardest good bye</h2>
             <div className="space-y-4 text-lg leading-8 text-gray-700">
-              <p>Dear unknown person,</p>
+              <p>Dear All,</p>
               <p>
-                I hope you all are doing well. There is something that I have been waiting to share with you for quite some time.
-                I wanted to tell you this during our exam.
+                I hope you all are doing well. 
+              </p>
+              <p>
+                There is something that I have been waiting to share with you for quite some time.
               </p>
               <p>
                 Over the days, I have come to admire you more than I can explain.
               </p>
               <p>
-                Whenever I talk with you guys, my day feels better and all m stress go off.
+                Whenever I talk with you guys, my day feels better and all my stress go off.
               </p>
               <p>
                 Its was a journey full of enjoyable.
               </p>
               <p>
-                i will always respect you gyus and value our friendship.
+                i will always respect you guys and value our friendship.
               </p>
               <p className="text-right font-semibold text-pink-600 pt-4">
-                — From someone who wants to talk with you.
+                — From someone who always want to spend a day with you guys.
               </p>
             </div>
 
@@ -82,8 +84,7 @@ export default function CollegeMiniWebsite() {
           <h2 className="text-4xl font-bold text-pink-600 mb-4">No Matter What...</h2>
           <p className="text-lg text-gray-700 leading-8 max-w-2xl mx-auto">
             Our friendship means a lot to me and will always remain special.
-            I hope this message won't impact our friendship.
-            This is not a proposal message, I just wanted to honestly convey what I feel.
+            All the fun activities or trip that we have made that will remain memorable for me.
           </p>
           <button className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             According to you
