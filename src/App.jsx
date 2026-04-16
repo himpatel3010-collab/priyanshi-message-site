@@ -1,4 +1,3 @@
-
 import groupPhoto from './1776324411996.jpg'
 import lastPhoto1 from './1776355815139.jpg'
 import lastphoto2 from './1776355943274.jpg'
@@ -9,7 +8,6 @@ import lastphoto6 from './1776358827101.jpg'
 import lastphoto7 from './1776356217059.jpg'
 import lastphoto8 from './1776340218765.jpg'
 import lastphoto9 from './1776340037592.jpg'
-
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
