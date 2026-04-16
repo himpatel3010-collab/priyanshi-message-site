@@ -2,7 +2,7 @@
 import groupPhoto from './1776324411996.jpg'
 import lastPhoto1 from './1776340037592.jpg' 
 import lastPhoto2 from './1776340218765.jpg' 
-import lastPhoto3 from './1776340310377.jpg'
+import lastPhoto3 from './1776340310377.JPG'
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
