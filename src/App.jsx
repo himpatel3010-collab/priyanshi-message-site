@@ -128,7 +128,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Two days trip to Valsad and Daman has a special space in my heart.
+            Two days trip to Valsad and Daman has a special space in my heart.The aee GJ 23 word by vasu will be the forever special moment for all of us.
           </p>
         </div> 
 
