@@ -98,24 +98,25 @@ export default function CollegeMiniWebsite() {
           </p>
           <p className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             MBA journey Ends here..
-          </p>  
-<div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+          </p> 
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
   <img
     src={lastPhoto1}
-    alt="Memory 1"
+    alt="College memory 1"
     className="rounded-2xl shadow-xl w-full h-64 object-cover"
   />
   <img
     src={lastPhoto2}
-    alt="Memory 2"
+    alt="College memory 2"
     className="rounded-2xl shadow-xl w-full h-64 object-cover"
   />
   <img
     src={lastPhoto3}
-    alt="Memory 3"
+    alt="College memory 3"
     className="rounded-2xl shadow-xl w-full h-64 object-cover"
   />
 </div>
+
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
         </div>
       </section>
