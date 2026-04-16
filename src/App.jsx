@@ -105,7 +105,8 @@ export default function CollegeMiniWebsite() {
             alt="College memory 1"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
-          <p>A one day car trip to sarangpur will always be special. The vlog that we have made the enjoyment that we have done in the car is what make the trip special
+          <p>
+            A one day car trip to sarangpur will always be special. The vlog that we have made the enjoyment that we have done in the car is what make the trip special
           </p>
             
           <img
@@ -113,14 +114,16 @@ export default function CollegeMiniWebsite() {
             alt="College memory 2"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
            />
-          <p>By seeing this photo i remember the cute and funny dance of vasu,The food that we have eaten in the marriage was too goo specially the modify pizza with ketav and teasing tithi to eat the single slide of pizza
+          <p>
+            By seeing this photo i remember the cute and funny dance of vasu,The food that we have eaten in the marriage was too goo specially the modify pizza with ketav and teasing tithi to eat the single slide of pizza
           </p>
           <img
             src={lastPhoto3}
             alt="College memory 3"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
-          <P>Two days trip to valsad and daman has a special space in my heart. The aee GJ 23 word by vasu will be the forever special moment for all of us.
+          <P>
+            Two days trip to valsad and daman has a special space in my heart. The aee GJ 23 word by vasu will be the forever special moment for all of us.
           </P>
           </div>
 
