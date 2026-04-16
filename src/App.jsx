@@ -100,22 +100,22 @@ export default function CollegeMiniWebsite() {
             MBA journey Ends here..
           </p> 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-  <img
-    src={lastPhoto1}
-    alt="College memory 1"
-    className="rounded-2xl shadow-xl w-full h-64 object-cover"
-  />
-  <img
-    src={lastPhoto2}
-    alt="College memory 2"
-    className="rounded-2xl shadow-xl w-full h-64 object-cover"
-  />
-  <img
-    src={lastPhoto3}
-    alt="College memory 3"
-    className="rounded-2xl shadow-xl w-full h-64 object-cover"
-  />
-</div>
+          <img
+            src={lastPhoto1}
+            alt="College memory 1"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <img
+            src={lastPhoto2}
+            alt="College memory 2"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+           />
+          <img
+            src={lastPhoto3}
+            alt="College memory 3"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          </div>
 
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
         </div>
