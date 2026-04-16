@@ -30,6 +30,11 @@ export default function CollegeMiniWebsite() {
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-8">
             A small message for you guys.
           </p>
+          <img 
+            src="https://images.unsplash.com/photo-1517841905240-472988babdf9" 
+            alt="Special memory" 
+            className="w-full max-w-md mx-auto rounded-2xl shadow-xl mt-6" 
+          />
 
           <button
             onClick={() => revealSection('message-section')}
