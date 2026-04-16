@@ -1,5 +1,8 @@
 
 import groupPhoto from './1776324411996.jpg'
+import lastPhoto1 from './1776340037592.jpg' 
+import lastPhoto2 from './1776340218765.jpg' 
+import lastPhoto3 from './1776340310377.JPG'
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
@@ -96,7 +99,23 @@ export default function CollegeMiniWebsite() {
           <p className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             MBA journey Ends here..
           </p>  
-
+<div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+  <img
+    src={lastPhoto1}
+    alt="Memory 1"
+    className="rounded-2xl shadow-xl w-full h-64 object-cover"
+  />
+  <img
+    src={lastPhoto2}
+    alt="Memory 2"
+    className="rounded-2xl shadow-xl w-full h-64 object-cover"
+  />
+  <img
+    src={lastPhoto3}
+    alt="Memory 3"
+    className="rounded-2xl shadow-xl w-full h-64 object-cover"
+  />
+</div>
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
         </div>
       </section>
