@@ -107,21 +107,29 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Two days trip to Valsad and Daman has a special space in my heart.
+            A one day car trip to sarangpur will always be special. The vlog that we have made the enjoyment that we have done in the car is what make the trip special.
           </p>
         </div>
-         
+        <div>
           <img
             src={lastPhoto2}
             alt="College memory 2"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
            />
-          
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            By seeing this photo i remember the cute and funny dance of vasu,The food that we have eaten in the marriage was too goo specially the modify pizza with ketav and teasing tithi to eat the single slide of pizza.
+          </p>
+          </div>
+
+        <div>
           <img
             src={lastPhoto3}
             alt="College memory 3"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Two days trip to Valsad and Daman has a special space in my heart.
+          </p>
           </div>
 
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
