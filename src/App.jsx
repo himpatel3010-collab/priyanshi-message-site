@@ -105,17 +105,13 @@ export default function CollegeMiniWebsite() {
             alt="College memory 1"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
-        <div>  
+         
           <img
             src={lastPhoto2}
             alt="College memory 2"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
            />
-          <p className="mt-3 text-gray-700 text-sm leading-6"> 
-            Two days trip to Valsad and Daman has a special space in my heart. 
-          </p>
-        </div>
-        <div>
+          
           <img
             src={lastPhoto3}
             alt="College memory 3"
