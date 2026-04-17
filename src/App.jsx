@@ -8,6 +8,8 @@ import lastPhoto6 from './1776358827101.jpg'
 import lastPhoto7 from './1776356217059.jpg'
 import lastPhoto8 from './1776340218765.jpg'
 import lastPhoto9 from './1776340037592.jpg'
+import lastPhoto10 from './1776400483619.jpg'
+import lastPhoto11 from './1776401041705.jpg'
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
@@ -200,6 +202,28 @@ export default function CollegeMiniWebsite() {
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
             Trip to sarangpur was a fun, that masti in car, the vlog was the best parth of that trip that will remember for the long time.
+          </p>
+        </div>
+
+         <div>
+          <img
+            src={lastPhoto10}
+            alt="College memory 10"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Trip to valsad and daman was fabulous specially when vasu said aeee GJ 23 at that moment everyone the way vasu react.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto11}
+            alt="College memory 11"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            I hope even after the MBA we all might be in a touch with each others and stay connect through video calls.
           </p>
         </div>
         
