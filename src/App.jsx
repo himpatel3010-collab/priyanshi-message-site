@@ -233,17 +233,38 @@ export default function CollegeMiniWebsite() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
 
-          <video src={video1} controls className="rounded-2xl shadow-xl w-full" />
-        <p className="mt-8 text-center text-xl font-semibold text-pink-600">
-            "A place where satvik became mummy of mihir." 💫
+          <video src={video1} controls className="rounded-1xl shadow-xl w-full" />
+        <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "A place where satvik became mummy of mihir." 
         </p>
           <video src={video2} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "A time when tithi became an influencer." 
+        </p>
           <video src={video3} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "A good college days." 
+        </p>
           <video src={video4} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "A time where one of our player got injured so we decided to visit his farm." 
+        </p>
           <video src={video5} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "The time when ketav need to tell all the day story to someone that he like the most." 
+        </p>
           <video src={video6} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "The only time when satvik was happy just because her jannudi gone with someone else." 
+        </p>
           <video src={video7} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "A time when mihir though to became an contractor." 
+        </p>
           <video src={video8} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "Vidai of tithi from the college😂." 
+        </p>
 
       </div>
         
