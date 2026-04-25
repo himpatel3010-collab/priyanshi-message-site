@@ -420,9 +420,9 @@ export default function CollegeMiniWebsite() {
       <p className="p-4 text-center text-gray-700">
         "Samaj party jindaa baad."
       </p>
-    </* VIDEO SECTION END */}
-    </div>
-        </div>
+    
+    </div> > {/* video grid */}
+        
 
         
       </div>  
