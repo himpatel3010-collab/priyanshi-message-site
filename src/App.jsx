@@ -303,43 +303,125 @@ export default function CollegeMiniWebsite() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+        <div className="mt-12">
+  <h3 className="text-2xl font-semibold text-pink-600 mb-6 text-center">
+    Our Video Memories 🎥
+  </h3>
 
-          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full object-cover" />
-        <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "A place where satvik became mummy of mihir." 
-        </p>
-          <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "A time when tithi became an influencer." 
-        </p>
-          <video src={lastvideo3} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "A good college days." 
-        </p>
-          <video src={lastvideo4} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "A time where one of our player got injured so we decided to visit his farm." 
-        </p>
-          <video src={lastvideo5} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "The time when ketav need to tell all the day story to someone that he like the most." 
-        </p>
-          <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "The only time when satvik was happy just because her jannudi gone with someone else." 
-        
-        </p>
-          <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "Vidai of tithi from the college😂." 
-        </p>
-          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full object-cover" />
-          <p className="mt-4 text-center text-xl font-sm text-pink-550">
-            "Samaj party jindaa baad." 
-        </p>
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
 
+    {/* VIDEO 1 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo1}
+          controls
+          className="w-full h-full object-cover"
+        />
       </div>
+      <p className="p-4 text-center text-gray-700">
+        "A place where satvik became mummy of mihir."
+      </p>
+    </div>
+
+    {/* VIDEO 2 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo2}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "A time when tithi became an influencer."
+      </p>
+    </div>
+
+    {/* VIDEO 3 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo3}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "A good college days."
+      </p>
+    </div>
+
+    {/* VIDEO 4 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo4}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "A time where one of our player got injured so we visited his farm."
+      </p>
+    </div>
+
+    {/* VIDEO 5 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo5}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "The time when ketav shared his full day story."
+      </p>
+    </div>
+
+    {/* VIDEO 6 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo6}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "The only time when satvik was happy 😂"
+      </p>
+    </div>
+
+    {/* VIDEO 7 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo7}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "Vidai of tithi from the college 😂"
+      </p>
+    </div>
+
+    {/* VIDEO 8 */}
+    <div className="bg-white rounded-2xl shadow-xl overflow-hidden hover:scale-105 transition-all duration-300">
+      <div className="aspect-[9/16]">
+        <video
+          src={lastvideo8}
+          controls
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <p className="p-4 text-center text-gray-700">
+        "Samaj party jindaa baad."
+      </p>
+    </div>
+
         
       </div>  
 
