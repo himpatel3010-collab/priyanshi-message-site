@@ -15,16 +15,15 @@ import lastPhoto13 from './chocklate.jpeg'
 import lastPhoto14 from './concert.jpeg'
 import lastPhoto15 from './blackday.jpeg'
 import lastPhoto16 from './3idots.jpeg'
-
-import video1 from './Snapchat-1070160169.mp4'
-import video2 from './Snapchat-1454945637.mp4'
-import video3 from './Snapchat-814612826.mp4'
-import video4 from './Snapchat-846536604.mp4'
-import video5 from './Snapchat-865556087.mp4'
-import video6 from './VID-20260309-WA0013.mp4'
-import video7 from './VN20250917_174152.mp4'
-import video8 from './Snapchat-1655678465.mp4'
-import video9 from './Snapchat-1726119615.mp4'
+import lastvideo1 from './Snapchat-1070160169.mp4'
+import lastvideo2 from './Snapchat-1454945637.mp4'
+import lastvideo3 from './Snapchat-814612826.mp4'
+import lastvideo4 from './Snapchat-846536604.mp4'
+import lastvideo5 from './Snapchat-865556087.mp4'
+import lastvideo6 from './VID-20260309-WA0013.mp4'
+import lastvideo7 from './VN20250917_174152.mp4'
+import lastvideo8 from './Snapchat-1655678465.mp4'
+import lastvideo9 from './Snapchat-1726119615.mp4'
 
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
@@ -295,39 +294,39 @@ export default function CollegeMiniWebsite() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
 
-          <video src={video1} controls className="rounded-1xl shadow-xl w-full" />
+          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full" />
         <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A place where satvik became mummy of mihir." 
         </p>
-          <video src={video2} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A time when tithi became an influencer." 
         </p>
-          <video src={video3} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo3} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A good college days." 
         </p>
-          <video src={video4} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo4} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A time where one of our player got injured so we decided to visit his farm." 
         </p>
-          <video src={video5} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo5} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "The time when ketav need to tell all the day story to someone that he like the most." 
         </p>
-          <video src={video6} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "The only time when satvik was happy just because her jannudi gone with someone else." 
         </p>
-          <video src={video7} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A time when mihir though to became an contractor." 
         </p>
-          <video src={video8} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Vidai of tithi from the college😂." 
         </p>
-          <video src={video9} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo9} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Samaj party jindaa baad." 
         </p>
